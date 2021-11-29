@@ -1,2 +1,2 @@
 # slide
-Slide do projeto do curso JavaScript Origamid.
+Slide do projeto do curso de JavaScript da Origamid.
